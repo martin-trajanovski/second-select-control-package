@@ -1,0 +1,21 @@
+{
+  "name": "second-select-control-package",
+  "authors": [
+    "Martin"
+  ],
+  "description": "This is my second bower test package",
+  "main": "dist/allScripts.js",
+  "moduleType": [],
+  "keywords": [
+    "select-control"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
